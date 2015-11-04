@@ -5,7 +5,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 
 @Entity
 public class Event {
@@ -45,12 +44,12 @@ public class Event {
         this.id = id;
     }
 
-    public LocalDateTime getStart() {
-        return start;
+    public String getStart() {
+        return date;
     }
 
     public void setStart(final LocalDateTime start) {
-        this.start = start;
+        this.date = start.toString();
     }
 
     public String getTitle() {
