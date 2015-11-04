@@ -5,6 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 @Entity
 public class Event {
@@ -14,7 +15,7 @@ public class Event {
     private String id;
     private String title;
     private String description;
-    private LocalDateTime start;
+    private String date;
     private String imageUrl;
 
     //Bra med tom construktor
@@ -24,7 +25,7 @@ public class Event {
     public Event(final String title, final String description, final LocalDateTime start, String imageUrl) {
         this.title = title;
         this.description = description;
-        this.start = start;
+        this.date = start.toString();
         this.imageUrl = imageUrl;
     }
 
