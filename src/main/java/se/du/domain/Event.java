@@ -1,9 +1,6 @@
 package se.du.domain;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
@@ -13,6 +10,7 @@ public class Event {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private String id;
     private String title;
+    @Column(length = 1000)
     private String description;
     private String date;
     private String imageUrl;
