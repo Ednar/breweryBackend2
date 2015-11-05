@@ -24,12 +24,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+      <file leaf-file-name="Event.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/du/domain/Event.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="58" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
-              <folding />
+            <state vertical-scroll-proportion="0.5472637">
+              <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1374#1375#0" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,9 +71,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/se/du/repositories/EventRepository.java" />
         <option value="$PROJECT_DIR$/src/test/java/se/du/RestApiIntegrationTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/se/du/domain/Event.java" />
         <option value="$PROJECT_DIR$/src/main/java/se/du/service/EventServiceImpl.java" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/se/du/domain/Event.java" />
       </list>
     </option>
   </component>
@@ -905,7 +910,7 @@
       <created>1446622222674</created>
       <option name="number" value="Default" />
       <updated>1446622222674</updated>
-      <workItem from="1446622227426" duration="3355000" />
+      <workItem from="1446622227426" duration="3774000" />
     </task>
     <servers />
   </component>
@@ -942,11 +947,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3355000" />
+    <option name="totallyTimeSpent" value="3774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1075,42 +1080,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/se/du/domain/Event.java">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8507463">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-          <folding>
-            <marker date="1446626383000" expanded="true" signature="30:198" placeholder="..." />
-            <marker date="1446626383000" expanded="true" signature="234:289" placeholder="@{...}" />
-            <marker date="1446626383000" expanded="true" signature="483:490" placeholder="{...}" />
-            <marker date="1446626383000" expanded="true" signature="599:736" placeholder="{...}" />
-            <marker date="1446626383000" expanded="false" signature="772:783" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="802:808" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="866:877" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="908:914" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="941:952" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="962:968" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="1008:1019" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="1032:1038" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="1075:1086" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="1099:1105" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="1158:1169" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="1188:1194" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="1224:1235" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="1248:1254" placeholder=" }" />
-            <marker date="1446626383000" expanded="false" signature="1300:1311" placeholder=" { " />
-            <marker date="1446626383000" expanded="false" signature="1330:1336" placeholder=" }" />
-            <marker date="1446626383000" expanded="true" signature="1369:1380" placeholder=" { " />
-            <marker date="1446626383000" expanded="true" signature="1396:1402" placeholder=" }" />
-            <marker date="1446626383000" expanded="true" signature="1454:1465" placeholder=" { " />
-            <marker date="1446626383000" expanded="true" signature="1490:1496" placeholder=" }" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="58" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/se/du/service/EventServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47263682">
+        <state vertical-scroll-proportion="0.49479166">
           <caret line="19" column="115" selection-start-line="19" selection-start-column="115" selection-end-line="19" selection-end-column="115" />
           <folding>
             <marker date="1446626485000" expanded="true" signature="31:230" placeholder="..." />
@@ -1121,11 +1101,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="58" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.49751243">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/du/domain/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5472637">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
