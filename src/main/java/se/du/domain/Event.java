@@ -21,7 +21,8 @@ public class Event {
     public Event() {
     }
 
-    public Event(final String title, final String description, final LocalDateTime start, String imageUrl) {
+    public Event(String id, final String title, final String description, final LocalDateTime start, String imageUrl) {
+        this.id = id;
         this.title = title;
         this.description = description;
         this.date = start.toString();
