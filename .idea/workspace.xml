@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78424e5c-85d4-4176-af60-7bf23f771ed5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/du/domain/Event.java" afterPath="$PROJECT_DIR$/src/main/java/se/du/domain/Event.java" />
-    </list>
+    <list default="true" id="78424e5c-85d4-4176-af60-7bf23f771ed5" name="Default" comment="" />
     <ignored path="ik2019_rest_api.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,15 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Event.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/se/du/domain/Event.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07462686">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="halloween.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/halloween.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -921,7 +913,7 @@
       <option name="number" value="Default" />
       <updated>1446622222674</updated>
       <workItem from="1446622227426" duration="3774000" />
-      <workItem from="1446718478456" duration="1244000" />
+      <workItem from="1446718478456" duration="1383000" />
     </task>
     <servers />
   </component>
@@ -958,7 +950,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5018000" />
+    <option name="totallyTimeSpent" value="5157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -973,10 +965,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1011,7 +1003,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1446719688000" expanded="true" signature="30:82" placeholder="..." />
+            <marker date="1446719688000" expanded="true" signature="118:173" placeholder="@{...}" />
+            <marker date="1446719688000" expanded="true" signature="386:393" placeholder="{...}" />
+            <marker date="1446719688000" expanded="true" signature="513:682" placeholder="{...}" />
+            <marker date="1446719688000" expanded="false" signature="718:729" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="748:754" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="812:823" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="854:860" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="887:898" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="908:914" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="954:965" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="978:984" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1014:1025" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1037:1043" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1096:1107" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1136:1142" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1172:1183" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1196:1202" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1248:1259" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1278:1284" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1317:1328" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1344:1350" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1402:1413" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1438:1444" placeholder=" }" />
           </folding>
         </state>
       </provider>
@@ -1135,9 +1150,37 @@
         <state vertical-scroll-proportion="0.07462686">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1446719688000" expanded="true" signature="30:82" placeholder="..." />
+            <marker date="1446719688000" expanded="true" signature="118:173" placeholder="@{...}" />
+            <marker date="1446719688000" expanded="true" signature="386:393" placeholder="{...}" />
+            <marker date="1446719688000" expanded="true" signature="513:682" placeholder="{...}" />
+            <marker date="1446719688000" expanded="false" signature="718:729" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="748:754" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="812:823" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="854:860" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="887:898" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="908:914" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="954:965" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="978:984" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1014:1025" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1037:1043" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1096:1107" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1136:1142" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1172:1183" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1196:1202" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1248:1259" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1278:1284" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1317:1328" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1344:1350" placeholder=" }" />
+            <marker date="1446719688000" expanded="false" signature="1402:1413" placeholder=" { " />
+            <marker date="1446719688000" expanded="false" signature="1438:1444" placeholder=" }" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/halloween.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
