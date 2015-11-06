@@ -9,4 +9,6 @@ import java.util.Collection;
 public interface EventService {
 
     Collection<Event> getAllEvents();
+
+    Event getEventById(String id);
 }
