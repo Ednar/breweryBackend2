@@ -19,7 +19,7 @@ public class EventController {
         return eventService.getAllEvents();
     }
 
-    @RequestMapping(value = "events/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    @RequestMapping(value = "/events/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public Event getEventWithId(@PathVariable("id") String id) {
         return eventService.getEventById(id);
     }
